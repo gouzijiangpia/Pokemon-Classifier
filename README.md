@@ -1,0 +1,2 @@
+# Pokemon-Classifier
+基于pytorch框架的基于ResNet模型和ViT模型的宝可梦十分类器
